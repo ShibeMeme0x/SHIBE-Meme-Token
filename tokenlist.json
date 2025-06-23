@@ -1,0 +1,25 @@
+{
+  "name": "Shibe Meme Token List",
+  "logoURI": "https://memeshibe.ai/logo.png",
+  "keywords": [
+    "shibe",
+    "meme",
+    "token"
+  ],
+  "timestamp": "2025-06-23T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 7777777,
+      "address": "0xe95eD6fB6484f262858D9D1E3d98cBc6AE044A30",
+      "name": "SHIBE",
+      "symbol": "SHIBE",
+      "decimals": 18,
+      "logoURI": "https://memeshibe.ai/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
